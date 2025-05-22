@@ -12,7 +12,7 @@
 
 ## Ссылки
 
-https://docs.google.com/presentation/d/1nzZ4t7fx8pCDgpVLaFblfOnKQRAcXr971b0teDGhASg/edit?usp=sharing - Презентация
+https://docs.google.com/presentation/d/182GNJfb_AbeO-XRH_USTtlGRXO1Ejth7dC8LiYgwOm8/edit?usp=sharing - Презентация
 
 https://colab.research.google.com/drive/18H_qXdCpeV7WklTgJyBkju1mZjdrXi3H?usp=sharing - Google Collab
 
